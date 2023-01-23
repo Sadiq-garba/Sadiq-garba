@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sadiq-garba
+- 👋 Hi, I’m @Sadiq-garba (Abubakar Garba)
 - 👀 My tech stacks are especially PHP/Laravel, Javascript, React , Jquery
 - 🌱 React enthusiast
 - 💞️ Open to new opportunities
