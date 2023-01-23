@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sadiq-garba
-- 👀 I’m interested in web development especially PHP/Laravel, Javascript, React , Jquery
-- 🌱 I’m currently learning React
-- 💞️ I’m looking foward to collaborate with expert on both backend and front end projects
-- 📫 How to reach me call +2347013950375 or chat me on whatsapp 
+- 👀 My tech stacks are especially PHP/Laravel, Javascript, React , Jquery
+- 🌱 React enthusiast
+- 💞️ Open to new opportunities
+- 📫 How to reach me call +2347040793085 or chat me on whatsapp 
 
 
-I'm a Mid level web developer who hopes to collaborate with other web developer to develop life changing applications
+Mid level Full stack developer with proving ability to solve problems
 
